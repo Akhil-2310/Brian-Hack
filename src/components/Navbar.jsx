@@ -7,7 +7,7 @@ function Navbar() {
     <nav className="bg-gray-900 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-2xl font-bold">
-          Linea AI Agent
+         AI Agents
         </Link>
         <div>
           <Link to="/" className="mr-4 hover:text-gray-300">
