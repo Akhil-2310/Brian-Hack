@@ -27,7 +27,7 @@ function Navbar() {
           </Link>
           <Link
             to="/contracts"
-            className="bg-blue-500 hover:bg-blue-600 px-4 py-2 rounded"
+            className="bg-blue-500 hover:bg-blue-600 px-4 py-2 rounded m-4"
           >
             Contracts
           </Link>
